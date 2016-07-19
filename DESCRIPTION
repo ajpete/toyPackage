@@ -2,7 +2,7 @@ Package: toyPackage
 Title: Illustrates a Minimal Package
 Version: 0.1.0
 Authors@R: person("Ashley", "Petersen", email = "ajpete@uw.edu", role = c("aut", "cre"))
-Description: Trying to get something working quickly and easily.
+Description: Trying to get something working quickly and easily with only two functions.
 Depends:
     R (>= 3.3.0)
 License: CC0
